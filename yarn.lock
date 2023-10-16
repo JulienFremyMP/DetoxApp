@@ -1190,6 +1190,17 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.49.0.tgz#86f79756004a97fa4df866835093f1df3d03c333"
   integrity sha512-1S8uAY/MTJqVx0SC4epBq+N2yhuwtNwLbJYNZyhL2pO1ZVKn5HFXav5T41Ryzy9K9V7ZId2JB2oy/W4aCd9/2w==
 
+"@gg66/react-native-gesture-handler@2.13.3":
+  version "2.13.3"
+  resolved "https://registry.yarnpkg.com/@gg66/react-native-gesture-handler/-/react-native-gesture-handler-2.13.3.tgz#bc6417e3cb72922c82678031a94f2d31f15771f5"
+  integrity sha512-z3npkruvKGRPhWWVA8V6ZfYpi0cIMFOQPFOpJHvfnvsCOe4PPRjktFT1inY/X0ehOodhrAIbOlTx/tj5/gnhmg==
+  dependencies:
+    "@egjs/hammerjs" "^2.0.17"
+    hoist-non-react-statics "^3.3.0"
+    invariant "^2.2.4"
+    lodash "^4.17.21"
+    prop-types "^15.7.2"
+
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
@@ -6046,17 +6057,6 @@ react-is@^17.0.1:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
-
-react-native-gesture-handler@^2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.13.0.tgz#326f52c0e2172200225ee0c7f7534b8ffe122ec4"
-  integrity sha512-SkUAEEkSjfML24nDepgrcLzPhMyUrPOESpFLMAYmiMBsy+QJBfEs12KF5B4mMVUKBdlXQ/BQ2VA3CP29hh16lA==
-  dependencies:
-    "@egjs/hammerjs" "^2.0.17"
-    hoist-non-react-statics "^3.3.0"
-    invariant "^2.2.4"
-    lodash "^4.17.21"
-    prop-types "^15.7.2"
 
 react-native@0.72.4:
   version "0.72.4"

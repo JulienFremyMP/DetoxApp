@@ -4,7 +4,7 @@ import {
   Gesture,
   GestureDetector,
   GestureHandlerRootView,
-} from 'react-native-gesture-handler';
+} from '@gg66/react-native-gesture-handler';
 
 const styles = StyleSheet.create({
   container: {
